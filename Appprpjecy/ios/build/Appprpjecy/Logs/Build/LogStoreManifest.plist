@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>34760FCB-49BA-423E-BAF7-39740168F1B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34760FCB-49BA-423E-BAF7-39740168F1B7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Appprpjecy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Appprpjecy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Appprpjecy with scheme Appprpjecy and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>586134336.26770198</real>
+			<key>timeStoppedRecording</key>
+			<real>586134336.98573804</real>
+			<key>title</key>
+			<string>Building workspace Appprpjecy with scheme Appprpjecy and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>34760FCB-49BA-423E-BAF7-39740168F1B7</string>
+		</dict>
+		<key>A72D3F71-562B-4AF7-AA44-B669C1EAB1C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A72D3F71-562B-4AF7-AA44-B669C1EAB1C3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Appprpjecy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Appprpjecy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Appprpjecy with scheme Appprpjecy and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>586170557.30648899</real>
+			<key>timeStoppedRecording</key>
+			<real>586170558.10350895</real>
+			<key>title</key>
+			<string>Building workspace Appprpjecy with scheme Appprpjecy and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A72D3F71-562B-4AF7-AA44-B669C1EAB1C3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
