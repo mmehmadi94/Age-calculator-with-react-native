@@ -7,4 +7,4 @@ This repo contains the source code of an application that calculates the age aft
 
 - Clone this repository
 
-- Run npm install , all required components will be installed automatically
+- Run **npm install** , all required components will be installed automatically
